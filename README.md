@@ -23,4 +23,9 @@ There are currently 1940 employees that are ellegible for the Mentorship program
 
 ### See below image as reference
 
-<img width="199" alt="Mentorship_Program" src="https://user-images.githubusercontent.com/98929742/161471072-14ca38f6-876a-4368-ad2f-41febdaaeecd.png">
+![Mentorship_Program](https://user-images.githubusercontent.com/98929742/161471866-9c43eb1b-d9cd-435d-991a-5618f371bead.png)
+
+## Summary
+
+The company is going through 
+
