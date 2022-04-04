@@ -6,7 +6,7 @@ The purpose of the project is to provide help to Bobby to determine the number o
 
 ## Results
 
-The total count of employees that are ellegible to retire is 90,398, which translates to 30.13% of the employees. The following list depicts the current status of retiring employees by title:
+The total count of employees that are eligible to retire is 90,398, which translates to 30.13% of the employees. The following list depicts the current status of retiring employees by title:
 
 - 32,452 Staff. Which translates to 35.90% of the total retiting employees, 10.82% of overall employees
 - 29,415 Senior Engineer. Which translates to 32.54% of the total retiting employees, 9.8% of overall employees
@@ -19,13 +19,13 @@ The total count of employees that are ellegible to retire is 90,398, which trans
   
  ![Retiring_by_Title](https://user-images.githubusercontent.com/98929742/161470150-5a571dbc-a320-4737-b48a-29b57359fe96.PNG)
 
-There are currently 1940 employees that are ellegible for the Mentorship program.
+There are currently 1940 employees that are eligible for the Mentorship program.
 
 ### See below image as reference
 
-![Mentorship_Program](https://user-images.githubusercontent.com/98929742/161471866-9c43eb1b-d9cd-435d-991a-5618f371bead.png)
+![Mentorship_Program](https://user-images.githubusercontent.com/98929742/161472685-0ec30779-19b6-4390-80f7-e9c9289eb3b9.png)
 
 ## Summary
 
-The company is going through 
+The company is going through a phase where 30% of their employees is close to the age of retiring, and only 1940 (0.65%) is eligible for the mentorship program. But with the data the company can prioritize the departments that will suffer the most (higher number of retiring) and start training new employees for the future.
 
