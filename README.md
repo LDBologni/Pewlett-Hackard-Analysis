@@ -15,8 +15,12 @@ The total count of employees that are ellegible to retire is 90,398, which trans
 - 4,502 Technique Leader. Which translates to 4.98% of the total retiting employees, 1.5% of overall employees
 - 1,761 Assistant Engineer. Which translates to 1.95% of the total retiting employees, 0.59% of overall employees
   
-  See below image as reference
+### See below image as reference
   
  ![Retiring_by_Title](https://user-images.githubusercontent.com/98929742/161470150-5a571dbc-a320-4737-b48a-29b57359fe96.PNG)
 
+There are currently 1940 employees that are ellegible for the Mentorship program.
 
+### See below image as reference
+
+<img width="199" alt="Mentorship_Program" src="https://user-images.githubusercontent.com/98929742/161471072-14ca38f6-876a-4368-ad2f-41febdaaeecd.png">
